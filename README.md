@@ -5,7 +5,7 @@
  ---
 
 
-![Layout Template](media/layout.jpg)
+![Layout Template](src/media/layout.jpg)
 ---
 
 ### 1.1. Bootstrap
