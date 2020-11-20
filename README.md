@@ -9,7 +9,7 @@
 ---
 
 ### 1.1. Bootstrap
-
+    npm install bootstrap react-bootstrap
 ### 1.2. Tailwind css
 
 ### 1.3. Semantic UI
