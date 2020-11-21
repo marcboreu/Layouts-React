@@ -11,7 +11,9 @@
 ### 1.1. Bootstrap
     npm install bootstrap react-bootstrap
 ### 1.2. Tailwind css
-
+    1.    npm install tailwindcss
+    2.    index.html --- <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
+    3.    Create & Enjoy  
 ### 1.3. Semantic UI
 
 ### 1.4. Material UI

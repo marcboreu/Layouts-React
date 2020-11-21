@@ -1,0 +1,34 @@
+
+.containerLayout {
+    height: 500px;
+}
+.Breadcrumb {
+    background-color: #bde920;
+}
+.Card {
+    background-color: #a3deec;
+}
+.Form {
+    background-color: #f2e7b9;
+    max-height: 500px;
+}
+.Slider {
+    background-color: #ffcf0b;
+}
+.Datepicker {
+    background-color: #c18561;
+}
+.DropdownLayout {
+    background-color: #ad53ad;
+}
+.CheckboxLayout {
+    background-color: #d0c6e9;
+}
+.swiper {
+    scroll-snap-type: x mandatory;
+      scroll-behavior: smooth;
+    -webkit-overflow-scrolling: touch;
+  }
+  .swiper > img {
+    scroll-snap-align: start;
+  }

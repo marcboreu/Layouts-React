@@ -8,12 +8,12 @@ import CarouselLayout from './CarouselLayout';
 import FormLayout from './FormLayout';
 import Datepicker from './Datepicker';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import '../bootstrap/Styles.css';
+import './Styles.css';
 
 
 
 
-const App = () => {
+const AppBootstrap = () => {
   return (
     <Container fluid className="containerFluidLayout">
       <Row>
@@ -45,4 +45,4 @@ const App = () => {
   )
 }
 
-export default App;
+export default AppBootstrap;
